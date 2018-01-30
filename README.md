@@ -14,6 +14,15 @@ jupyter nbconvert --to html  *.ipynb
 ### **Directory Tree**
 - *generated via the **tree** bash command.*
 ```bash
+.
+├── Filesystem_Operations_-_shutil_os_modules.html
+├── Jupyter_Shortcuts.html
+├── Matplotlib--Plotting_and_Visualization.html
+├── NetworkX_Essentials.html
+├── README.md
+└── Regular Expressions.html
+
+0 directories, 6 files
 
 ```
 
