@@ -20,10 +20,10 @@ jupyter nbconvert --to html  *.ipynb
 ├── Matplotlib--Plotting_and_Visualization.html
 ├── NetworkX_Essentials.html
 ├── README.md
-└── Regular Expressions.html
+├── Regular Expressions.html
+└── Sympy_Reference_Sheet.html
 
-0 directories, 6 files
-
+0 directories, 7 files
 ```
 
 ---
